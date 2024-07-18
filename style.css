@@ -1,0 +1,18 @@
+.newDiv{
+
+    display: flex;
+    gap: 20px;
+;
+    
+}
+
+.listItem{
+    width:300px;
+    gap: 20px;
+   
+}
+
+.newButton{
+
+   height:20px
+}
